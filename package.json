@@ -1,6 +1,6 @@
 {
   "name": "iif",
-  "version": "1.0.0-1",
+  "version": "1.0.0",
   "description": "The IIf function in Javascript",
   "scripts": {
     "test": "tap test.js"
