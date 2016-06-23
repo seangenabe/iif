@@ -10,7 +10,15 @@ The IIf function in Javascript
 
 ### `iif(condition, ifTrue, [ifFalse])`
 
+`var iif = require('iif')`
+
 Returns `ifTrue` if `condition` is truthy. Otherwise, returns `ifFalse`.
+
+### `iifBranch(condition, ifTrueFunc, [ifFalseFunc])`
+
+`var iif = require('iif/branch')`
+
+Same as above, but additionally calls the argument being returned if it's a function.
 
 ## License
 
