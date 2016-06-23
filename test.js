@@ -1,5 +1,5 @@
 const tap = require('tap')
-const iif = require('.')
+const iif = require('./')
 
 tap.ok(iif(true, 'a') === 'a')
 tap.ok(iif(false, 'a') === undefined)
