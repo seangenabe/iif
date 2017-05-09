@@ -1,5 +1,7 @@
 # iif
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/iif.svg)](https://greenkeeper.io/)
+
 The IIf function in Javascript
 
 [![npm](https://img.shields.io/npm/v/iif.svg?style=flat-square)](https://www.npmjs.com/package/iif)
